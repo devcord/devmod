@@ -23,7 +23,7 @@
     }
   },
   "dependencies": {
-    "chalk": "^3.0.0",
+    "chalk": "^4.0.0",
     "discord.js": "^11.5.1",
     "esm": "^3.2.25",
     "moment": "^2.24.0",
