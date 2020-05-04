@@ -26,7 +26,7 @@
     "chalk": "^3.0.0",
     "discord.js": "^11.5.1",
     "esm": "^3.2.25",
-    "moment": "^2.24.0",
+    "moment": "^2.25.1",
     "nedb-async-await": "^0.1.2"
   },
   "devDependencies": {
